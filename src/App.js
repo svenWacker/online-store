@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 // import { WiAlien, WiNightAltThunderstorm } from "react-icons/wi";
 // import { BiCartAlt } from "react-icons/bi";
 import { FaMoneyBillAlt, FaShoppingCart } from "react-icons/fa";
+
 //library.add(fab, faCheckSquare, faCoffee);
 
 const App = () => {

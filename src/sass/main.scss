@@ -7,6 +7,16 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(
+    to right top,
+    #5d7b6f,
+    #a4c3a2,
+    #b0dab8,
+    #eae7d6,
+    #d7f9fa
+  );
 }
 
 li {
@@ -26,4 +36,14 @@ i {
 
 img {
   width: 20rem;
+}
+.social {
+  background-color: white;
+  border-radius: 25%;
+  border: 1px solid black;
+  margin-right: 5px;
+}
+.social:hover {
+  cursor: pointer;
+  background-color: lightgray;
 }

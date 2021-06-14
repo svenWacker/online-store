@@ -1,4 +1,5 @@
 import React from "react";
+import { FcShare, FcRating, FcHighPriority } from "react-icons/fc";
 
 const ProductItem = ({ info, addToCart }) => {
   const { id, productName, icon, price, inventory } = info;
@@ -16,6 +17,16 @@ const ProductItem = ({ info, addToCart }) => {
         }}
       >
         {inventory > 0 ? "Add to cart" : "Sold out"}
+      </button>
+      <br />
+      <button className="social">
+        <FcRating />
+      </button>
+      <button className="social">
+        <FcHighPriority />
+      </button>
+      <button className="social">
+        <FcShare />
       </button>
     </li>
   );
