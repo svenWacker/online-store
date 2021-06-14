@@ -1,0 +1,13 @@
+footer {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  .copy-sign {
+    margin-right: 10px;
+  }
+  p {
+    margin-right: 40px;
+  }
+}

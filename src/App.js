@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Data from "./data.json";
 import ProductList from "./components/ProductList";
+import Footer from "./components/Footer";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // import { library } from "@fortawesome/fontawesome-svg-core";
@@ -49,6 +50,7 @@ const App = () => {
         <input type="submit" value="filter" />
       </form>
       <ProductList data={userInput ? filteredData : data} />
+      <Footer />
     </React.Fragment>
   );
 };

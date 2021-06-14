@@ -1,4 +1,8 @@
 // your scss files should import here 💪🏻
+// @import "./header";
+@import "./root.scss";
+@import "./footer.scss";
+
 body {
   display: flex;
   justify-content: center;
