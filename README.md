@@ -57,3 +57,9 @@ Builds the app for deploying to gh-pages
 ### `adding packages`
 
 npm install react-icons --save
+
+## branches
+
+branch props with using props
+
+branch context with using contextAPI
