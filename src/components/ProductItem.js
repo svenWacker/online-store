@@ -4,13 +4,14 @@ const ProductItem = ({ info, addToCart }) => {
   const { id, productName, icon, price, inventory } = info;
 
   return (
-    <li className="product-container" key={id}>
-      {productName} <i>{icon}</i>
+    <li key={id}>
+      <h4>{productName}</h4> <i>{icon}</i>
       <h5>{price}€</h5>
       <h6>{inventory} items in stock</h6>
       <button
         disabled={inventory === 0}
         onClick={() => {
+          console.log(info);
           addToCart(info);
         }}
       >
