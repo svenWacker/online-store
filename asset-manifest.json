@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/online-store/static/css/main.d068be81.chunk.css",
-    "main.js": "/online-store/static/js/main.2b62cd7c.chunk.js",
-    "main.js.map": "/online-store/static/js/main.2b62cd7c.chunk.js.map",
+    "main.css": "/online-store/static/css/main.d6f105f7.chunk.css",
+    "main.js": "/online-store/static/js/main.4e37fff7.chunk.js",
+    "main.js.map": "/online-store/static/js/main.4e37fff7.chunk.js.map",
     "runtime-main.js": "/online-store/static/js/runtime-main.9a657ed7.js",
     "runtime-main.js.map": "/online-store/static/js/runtime-main.9a657ed7.js.map",
-    "static/js/2.385c0f4d.chunk.js": "/online-store/static/js/2.385c0f4d.chunk.js",
-    "static/js/2.385c0f4d.chunk.js.map": "/online-store/static/js/2.385c0f4d.chunk.js.map",
+    "static/js/2.6f7587a8.chunk.js": "/online-store/static/js/2.6f7587a8.chunk.js",
+    "static/js/2.6f7587a8.chunk.js.map": "/online-store/static/js/2.6f7587a8.chunk.js.map",
     "index.html": "/online-store/index.html",
-    "static/css/main.d068be81.chunk.css.map": "/online-store/static/css/main.d068be81.chunk.css.map",
-    "static/js/2.385c0f4d.chunk.js.LICENSE.txt": "/online-store/static/js/2.385c0f4d.chunk.js.LICENSE.txt"
+    "static/css/main.d6f105f7.chunk.css.map": "/online-store/static/css/main.d6f105f7.chunk.css.map",
+    "static/js/2.6f7587a8.chunk.js.LICENSE.txt": "/online-store/static/js/2.6f7587a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a657ed7.js",
-    "static/js/2.385c0f4d.chunk.js",
-    "static/css/main.d068be81.chunk.css",
-    "static/js/main.2b62cd7c.chunk.js"
+    "static/js/2.6f7587a8.chunk.js",
+    "static/css/main.d6f105f7.chunk.css",
+    "static/js/main.4e37fff7.chunk.js"
   ]
 }
